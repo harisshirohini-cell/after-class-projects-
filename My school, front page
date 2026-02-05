@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> structure of HTML</title>
+</head>
+<body>
+    <h1>My School</h1>
+    <h2>Front Page</h2>
+    <p>Welcome to the front page of my school's website. Here you will find information about our school, events, and important announcements.</p>
+    
+</body>
+</html>
