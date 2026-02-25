@@ -1,5 +1,45 @@
-
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Semantic HTML Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <header>
+        <h1>My Website</h1>
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">About</a> |
+            <a href="#">Services</a> |
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>This section describes the website using semantic HTML tags.</p>
+        </section>
+
+        <article>
+            <h2>Latest Blog Post</h2>
+            <p>This is an example of an article element in semantic HTML.</p>
+        </article>
+
+        <aside>
+            <h3>Related Links</h3>
+            <p>Extra information goes here.</p>
+        </aside>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website. All rights reserved.</p>
+    </footer>
+
+</body>
+</html><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,9 +47,27 @@
     <title>Document</title>
 </head>
 <body>
-    Introduction to HTML 
-    <HTML - Hyper Text Markup Language> 
-        Hello WORLD
+    <h2>This is one of my favourite songs</h2>
+    <audio controls autoplay>
+        <source src="audio.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>>
+    <p>this is one of my favourite songs</p>
+    <video width="320" height="240" controls autoplay poster="image.jpg"loop>
+        <source src="demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+
+  <iframe width="500" height="300" src="https://www.youtube.com/embed/lsCObbRG370?autoplay=1&mute=1"></iframe>
+</body><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>image</title>
+</head>
+<body>
+    <h1>image</h1>
+    <img src="image.jpg" alt="image">
     
 </body>
 </html>
